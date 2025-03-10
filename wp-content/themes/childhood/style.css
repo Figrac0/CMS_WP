@@ -1410,6 +1410,13 @@ body {
     box-sizing: border-box;
     background: #faf9fb;
 }
+span.wpcf7-not-valid-tip {
+    margin-top: 10px;
+}
+.wpcf7 form .wpcf7-response-output {
+    margin: 0;
+    margin-top: 15px;
+}
 @-webkit-keyframes bounce {
     20%,
     53%,

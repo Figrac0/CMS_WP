@@ -1,0 +1,289 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: YaMaps for Wordpress\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-02-05 21:57+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: options.php:291
+msgid ""
+"<a href=\"https://developer.tech.yandex.com/services/\">Get a key</a> "
+"(JavaScript API & HTTP Geocoder) if it necessary"
+msgstr ""
+
+#: options.php:154 includes/admin.php:42
+msgid ""
+"<div style=\"position: relative; display: block; width: 100%; white-space: "
+"normal !important;\"><h2 style=\"color: #444;font-size: 18px;font-weight: "
+"600;line-height: 36px;\">Want other icon types?</h2>Additional types of "
+"icons can be found by the link in the <a href=\"https://tech.yandex."
+"com/maps/doc/jsapi/2.1/ref/reference/option.presetStorage-docpage/ \" "
+"style=\"white-space: normal\">Yandex.Map documentation</a>.</div><div "
+"style=\"position: relative; display: block; width: 100%; white-space: normal "
+"!important;\"><h2 style=\"color: #444;font-size: 18px;font-weight: 600;line-"
+"height: 36px;\">Do you like YaMaps plugin?</h2>You can support its "
+"development by donate (<a href=\"https://yoomoney.ru/to/41001278340150\" "
+"style=\"white-space: normal\">Yoomoney</a>) or just leave a positive "
+"feedback in the <a href=\"https://wordpress."
+"org/support/plugin/yamaps/reviews/\" style=\"white-space: normal\">plugin "
+"repository</a>. It's very motivating!</div><div style=\"position: relative; "
+"display: block; width: 100%; white-space: normal !important;\"><h2 "
+"style=\"color: #444;font-size: 18px;font-weight: 600;line-height: 36px;\">"
+"Any questions?</h2>Ask in the comments <a href=\"https://www.yhunter."
+"ru/portfolio/dev/yamaps/\" style=\"white-space: normal\">on the plug-in's "
+"page</a>, <a href=\"https://wordpress.org/support/plugin/yamaps\" "
+"style=\"white-space: normal\">WP support forum</a> or <a href=\"https:"
+"//github.com/yhunter-ru/yamaps/issues\" style=\"white-space: normal\">on "
+"GitHub</a>.</div>"
+msgstr ""
+
+#: includes/admin.php:10
+msgid "Add map"
+msgstr ""
+
+#: options.php:294
+msgid "API key"
+msgstr ""
+
+#: options.php:261
+msgid "Author link"
+msgstr ""
+
+#: options.php:253
+msgid "Big map"
+msgstr ""
+
+#: includes/admin.php:16
+msgid "Blue only"
+msgstr ""
+
+#: options.php:208
+msgid "Choose default map type: yandex#map, yandex#satellite, yandex#hybrid"
+msgstr ""
+
+#: includes/admin.php:24
+msgid "Click on the map to choose or create the mark"
+msgstr ""
+
+#: includes/admin.php:26
+msgid "Delete"
+msgstr ""
+
+#: includes/admin.php:41
+msgid "Design & Development"
+msgstr ""
+
+#: options.php:259
+msgid "Disable link to plugin page"
+msgstr ""
+
+#: includes/admin.php:39
+msgid ""
+"Do not create a block in the content. Use the existing block of the WP theme "
+"with the specified ID"
+msgstr ""
+
+#: options.php:190
+msgid "Drag the map to set its default coordinates"
+msgstr ""
+
+#: includes/admin.php:11
+msgid "Edit map"
+msgstr ""
+
+#: includes/admin.php:40
+msgid "Extra"
+msgstr ""
+
+#: options.php:279
+msgid "For example:"
+msgstr ""
+
+#: options.php:227 includes/admin.php:35
+msgid "Full screen"
+msgstr ""
+
+#: options.php:227 includes/admin.php:36
+msgid "Geolocation"
+msgstr ""
+
+#: options.php:273 includes/admin.php:15
+msgid "Icon"
+msgstr ""
+
+#: includes/admin.php:17
+msgid "Link"
+msgstr ""
+
+#: includes/admin.php:9 includes/admin.php:14
+msgid "Map"
+msgstr ""
+
+#: options.php:193
+msgid "Map center"
+msgstr ""
+
+#: options.php:229 includes/admin.php:25
+msgid "Map controls"
+msgstr ""
+
+#: options.php:220 includes/admin.php:19
+msgid "Map height"
+msgstr ""
+
+#: options.php:184
+msgid "Map options"
+msgstr ""
+
+#: options.php:211 options.php:227 includes/admin.php:27
+msgid "Map type"
+msgstr ""
+
+#: options.php:202
+msgid "Map zoom"
+msgstr ""
+
+#: options.php:281 includes/admin.php:37
+msgid "Marker color"
+msgstr ""
+
+#: options.php:265
+msgid "Marker options"
+msgstr ""
+
+#: options.php:245 includes/admin.php:30
+msgid "Mobile drag"
+msgstr ""
+
+#: options.php:251
+msgid "Open big map/how to get button"
+msgstr ""
+
+#: options.php:271
+msgid "Other icon types"
+msgstr ""
+
+#: includes/admin.php:13
+msgid "Placemark"
+msgstr ""
+
+#: includes/admin.php:18
+msgid "Placemark hyperlink url or post ID"
+msgstr ""
+
+#: includes/admin.php:20
+msgid "Placemark name"
+msgstr ""
+
+#: includes/admin.php:38
+msgid "Put in ID"
+msgstr ""
+
+#: options.php:298 options.php:306
+msgid "Reset options"
+msgstr ""
+
+#: options.php:304
+msgid "Restore defaults"
+msgstr ""
+
+#: options.php:227 includes/admin.php:32
+msgid "Route"
+msgstr ""
+
+#: options.php:227 includes/admin.php:33
+msgid "Ruler"
+msgstr ""
+
+#: options.php:227 includes/admin.php:31
+msgid "Search"
+msgstr ""
+
+#: options.php:382
+msgid "Security check failed"
+msgstr ""
+
+#: includes/admin.php:21
+msgid "Text for hint or icon content"
+msgstr ""
+
+#: options.php:243
+msgid "The map can be dragged on mobile"
+msgstr ""
+
+#: options.php:235
+msgid "The map can be scaled with mouse scroll"
+msgstr ""
+
+#: options.php:227 includes/admin.php:34
+msgid "Traffic"
+msgstr ""
+
+#: includes/admin.php:22
+msgid "Use the links below"
+msgstr ""
+
+#: options.php:237 includes/admin.php:29
+msgid "Wheel zoom"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "www.yhunter.ru"
+msgstr ""
+
+#. URI of the plugin
+msgid "www.yhunter.ru/portfolio/dev/yamaps/"
+msgstr ""
+
+#: options.php:44
+msgid "YaMaps default options"
+msgstr ""
+
+#. Name of the plugin
+msgid "YaMaps for Wordpress"
+msgstr ""
+
+#: includes/shortcodes.php:207
+msgid "YaMaps plugin for Wordpress"
+msgstr ""
+
+#: includes/admin.php:12
+msgid "YaMaps plugin: Yandex.Map"
+msgstr ""
+
+#. Description of the plugin
+msgid "Yandex Map integration"
+msgstr ""
+
+#: options.php:285
+msgid "Yandex.Maps API key"
+msgstr ""
+
+#: options.php:31
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#. Author of the plugin
+msgid "Yuri Baranov"
+msgstr ""
+
+#: options.php:227 includes/admin.php:28
+msgid "Zoom"
+msgstr ""
+
+#: options.php:199
+msgid "Zoom the map to set its default scale"
+msgstr ""
+
+#: includes/admin.php:23
+msgid "Сoordinates"
+msgstr ""
