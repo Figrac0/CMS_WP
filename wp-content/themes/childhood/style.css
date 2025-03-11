@@ -6457,3 +6457,13 @@ footer {
         padding: 30px 15px 24px;
     }
 }
+.wp-block-image {
+    margin-top: 20px;
+}
+
+.has-text-align-center {
+    font-size: 18px;
+    margin: 10px;
+}
+
+
